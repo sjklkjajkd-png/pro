@@ -1,0 +1,19 @@
+{
+    "next_id": 3,
+    "sessions": [
+        {
+            "file_name": "sessions_967782089511.session",
+            "start_time": "2025-09-10T20:28:53.260857+03:00",
+            "temporary": false,
+            "user_id": 8155571383,
+            "id": 1
+        },
+        {
+            "file_name": "sessions_967773247079.session",
+            "start_time": "2025-09-10T20:45:05.422329+03:00",
+            "temporary": false,
+            "user_id": 8155571383,
+            "id": 2
+        }
+    ]
+}
