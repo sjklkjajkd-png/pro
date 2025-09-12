@@ -1,5 +1,5 @@
 {
-    "next_id": 11,
+    "next_id": 14,
     "sessions": [
         {
             "file_name": "sessions_967773247079.session",
@@ -25,11 +25,24 @@
         },
         {
             "file_name": "sessions_967730779925.session",
-            "start_time": "2025-09-11T13:27:55.021286+03:00",
-            "temporary": true,
+            "start_time": "2025-09-12T22:12:52.516866+03:00",
+            "temporary": false,
             "user_id": 8155571383,
-            "end_time": "2025-09-11T17:27:55.021301+03:00",
-            "id": 10
+            "id": 11
+        },
+        {
+            "file_name": "sessions_967730779925.session",
+            "start_time": "2025-09-12T23:36:06.077857+03:00",
+            "temporary": false,
+            "user_id": 8155571383,
+            "id": 12
+        },
+        {
+            "file_name": "sessions_967735536232.session",
+            "start_time": "2025-09-12T23:42:28.518308+03:00",
+            "temporary": false,
+            "user_id": 8155571383,
+            "id": 13
         }
     ]
 }
